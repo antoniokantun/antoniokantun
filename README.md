@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working on **Sistema de cotizaciones y gestión de egresos**
+- 🔭 I’m currently working on **Sistema de presupuestos y gestión de ingresos**
 
 - 🌱 I’m currently learning **Kotlin and C#**
 
